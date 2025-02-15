@@ -4,7 +4,7 @@
   "main": "practical3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon practical4.1.js "
+    "start": "nodemon practical5.1.js "
   },
   "author": "",
   "license": "ISC",
